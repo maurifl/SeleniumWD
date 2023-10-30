@@ -1,6 +1,6 @@
 # SeleniumWD
 
-![selenium](https://github.com/maurifl/SeleniumWD/assets/6419342/5181e6b9-7e33-461c-9845-aee77bd03859)
+![selenium](https://github.com/maurifl/SeleniumWD/assets/6419342/855cacde-d86c-439a-bd95-edd1a895dd12)
 
 proyectos de selenium web driver - Maven
 
