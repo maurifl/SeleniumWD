@@ -4,7 +4,7 @@
 
 ---
 
-El proyecto de testing de Calendar en https://testingqarvn.com.es/ es un ejemplo de excelencia en acción. Potenciado por Intellij y Maven, y respaldado por el potente Selenium WebDriver en Java, este enfoque garantiza una experiencia de usuario sin igual. La precisión y eficiencia de este proceso elevan el estándar de calidad digital, convirtiendo este sitio web en un referente de rendimiento y confiabilidad.
+El proyecto de testing del calendario en https://testingqarvn.com.es/ es una demostración de excelencia en acción. Diseñado con Intellij, impulsado por Maven y respaldado por el poderoso Selenium WebDriver en Java, este enfoque riguroso garantiza la precisión y confiabilidad de las fechas y eventos en el sitio web. Una herramienta esencial para asegurar la puntualidad y la satisfacción del usuario en cada visita.
 
 ---
 
