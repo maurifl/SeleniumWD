@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - Disabled
+### Proyecto - Deshabilitado
 
 ---
 
-El proyecto de testing de elementos 'Disabled' en https://testingqarvn.com.es se erige como un baluarte de usabilidad. Desarrollado con Intellij, Maven y potenciado por Selenium WebDriver en Java, asegura la identificación y correcto manejo de elementos deshabilitados en el sitio web. Este enfoque meticuloso garantiza una experiencia de usuario sin obstáculos, brindando la tranquilidad de la accesibilidad plena y la funcionalidad impecable.
+El proyecto de testing de elementos 'Deshabilitado' en https://testingqarvn.com.es se erige como un baluarte de usabilidad. Desarrollado con Intellij, Maven y potenciado por Selenium WebDriver en Java, asegura la identificación y correcto manejo de elementos deshabilitados en el sitio web. Este enfoque meticuloso garantiza una experiencia de usuario sin obstáculos, brindando la tranquilidad de la accesibilidad plena y la funcionalidad impecable.
 
 ---
 
