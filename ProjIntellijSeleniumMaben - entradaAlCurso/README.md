@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - EntradaAlCurso
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing Entrada al Curso en https://testingqarvn.com.es destaca como un ejemplo brillante de excelencia en calidad y accesibilidad. Desarrollado con las poderosas herramientas Intellij y Maven, respaldado por el sólido framework de Selenium WebDriver en Java, garantiza una experiencia fluida y precisa para los usuarios al acceder al curso en el sitio web. Cada paso es meticulosamente evaluado para garantizar una entrada sin obstáculos, asegurando que los estudiantes puedan acceder a los recursos de manera confiable y eficiente. La calidad es nuestra prioridad, y nuestro compromiso es brindar a los usuarios una experiencia de acceso al curso de primera clase, marcando un estándar de excelencia en el mundo de la educación en línea.
 
 ---
 
