@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - Encuesta
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing de la Encuesta en https://testingqarvn.com.es es una demostración sobresaliente de calidad y precisión. Desarrollado con las herramientas líderes en la industria, Intellij y Maven, y aprovechando el robusto framework de Selenium WebDriver en Java, garantiza una evaluación meticulosa y efectiva de la encuesta en el sitio web. Este enfoque meticuloso garantiza que cada pregunta se presente de manera impecable, y las respuestas se registren de manera precisa, brindando a los usuarios una experiencia de encuesta sin problemas. La calidad y la confiabilidad están en el núcleo de nuestro compromiso, asegurando que la toma de datos sea confiable y eficiente para la toma de decisiones informadas.
 
 ---
 
