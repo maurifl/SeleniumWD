@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - Disabled
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing de elementos 'Disabled' en https://testingqarvn.com.es se erige como un baluarte de usabilidad. Desarrollado con Intellij, Maven y potenciado por Selenium WebDriver en Java, asegura la identificación y correcto manejo de elementos deshabilitados en el sitio web. Este enfoque meticuloso garantiza una experiencia de usuario sin obstáculos, brindando la tranquilidad de la accesibilidad plena y la funcionalidad impecable.
 
 ---
 
