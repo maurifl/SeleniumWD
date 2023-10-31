@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - RadioButtons
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing de RadioButtons en https://testingqarvn.com.es establece un estándar de calidad impecable. Desarrollado con Intellij y Maven, respaldado por el robusto Selenium WebDriver en Java, garantiza la selección y funcionalidad precisa de los botones de radio en el sitio web. Este enfoque meticuloso asegura una experiencia de usuario sin errores, confirmando la fiabilidad y la precisión en la toma de decisiones. La calidad es nuestra señal de radio.
 
 ---
 
