@@ -4,7 +4,7 @@
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing de campos requeridos en https://testingqarvn.com.es demuestra excelencia en QA. Utilizando Intellij, Maven y Selenium WebDriver en Java, garantiza la integridad del sitio web. Este enfoque de vanguardia optimiza la calidad y usabilidad, asegurando una experiencia de usuario impecable. ¡Una pieza fundamental para el éxito en el mundo digital!
 
 ---
 
