@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - PruebaCheckBox
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing de PruebaCheckBox en https://testingqarvn.com.es destaca como un ejemplo de excelencia. Desarrollado con Intellij y Maven, respaldado por el potente Selenium WebDriver en Java, garantiza la verificación y funcionamiento impecable de las casillas de verificación en el sitio web. Este enfoque meticuloso asegura una experiencia de usuario sin problemas, confirmando la fiabilidad y precisión en la selección de opciones. La calidad está en cada selección.
 
 ---
 
