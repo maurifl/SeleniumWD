@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - ContactInformation
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing de Contact Information en https://testingqarvn.com.es/ es la columna vertebral de la confiabilidad. Desarrollado con Intellij y Maven, respaldado por Selenium WebDriver en Java, garantiza la integridad de los datos de contacto en el sitio web. Este enfoque meticuloso garantiza una comunicación fluida y precisa, brindando a los usuarios una experiencia confiable y satisfactoria en cada interacción.
 
 ---
 
