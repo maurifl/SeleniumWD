@@ -1,19 +1,16 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - SeleniumIDE - Ualá
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+En el corazón del Proyecto Ualá, la automatización de pruebas con Selenium IDE se erige como el guardián de la calidad. Cada interacción, cada flujo, meticulosamente registrado y ejecutado. En GitHub, nuestros casos de prueba se alinean como soldados virtuales, listos para proteger la integridad de nuestras aplicaciones. La eficiencia fluye en cada clic, la consistencia impulsa la confianza. Con Selenium IDE, el camino de la excelencia en calidad se revela ante nosotros, y avanzamos con seguridad en el universo digital.
 
 ---
 
 
 ## Tecnologías:
 ![seleniumIDE](https://github.com/maurifl/maurifl/assets/6419342/aec06bb5-ac30-4c86-8507-5e29f64c3a2f)
-![intellij](https://github.com/maurifl/SeleniumWD/assets/6419342/64dd7a06-90f6-421a-b794-e7824aa7cc7c)
-![maven](https://github.com/maurifl/SeleniumWD/assets/6419342/e376b16b-90e0-4987-ad0d-20f5f4f41cfa)
-![java](https://github.com/maurifl/SeleniumWD/assets/6419342/fb08f708-3138-47d2-8636-af1232f6818e)
 
 
 </br>
