@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - Calendar
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing de Calendar en https://testingqarvn.com.es/ es un ejemplo de excelencia en acción. Potenciado por Intellij y Maven, y respaldado por el potente Selenium WebDriver en Java, este enfoque garantiza una experiencia de usuario sin igual. La precisión y eficiencia de este proceso elevan el estándar de calidad digital, convirtiendo este sitio web en un referente de rendimiento y confiabilidad.
 
 ---
 
