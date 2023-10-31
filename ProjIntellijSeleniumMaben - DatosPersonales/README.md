@@ -1,10 +1,10 @@
 
 # Hola 👋
-### Proyecto - CamposRequeridos
+### Proyecto - DatosPersonales
 
 ---
 
-El proyecto de testing en https://testingqarvn.com.es/ es un ejemplo sobresaliente de calidad y precisión. Desarrollado con Intellij y Maven, emplea Selenium WebDriver en Java para garantizar una validación rigurosa de los campos requeridos. Esta combinación de tecnologías clave asegura un sitio web robusto y confiable, allanando el camino hacia una experiencia del usuario impecable. ¡La excelencia en pruebas de software en su máxima expresión!
+El proyecto de testing de Datos Personales en https://testingqarvn.com.es es un testimonio de excelencia. Con Intellij y Maven, respaldado por Selenium WebDriver en Java, garantiza la seguridad y precisión de la información personal en el sitio web. Este enfoque meticuloso garantiza la confidencialidad y la integridad de los datos, brindando a los usuarios una experiencia de confianza y tranquilidad. La protección de datos es nuestra prioridad.
 
 ---
 
